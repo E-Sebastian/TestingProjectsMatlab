@@ -1,4 +1,4 @@
-function result = PruebaFunction(file)
+function result = PruebaScript2(file)
 %PruebaFunction - A project custom task.
 %
 % To create your own custom task, edit this function to perform the desired
